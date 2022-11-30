@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/7f06a0170136896d8bf46.jpg" align="right" width="200" height="200"/>
+<img src="https://te.legra.ph/file/142b97ce9cf08850270ac.jpg" align="right" width="200" height="200"/>
 
 <h3>⚠️ This repo is just a clone of <a href="https://github.com/TechShreyash/SiestaXMusic">SiestaXMusic</a>. All credits goes to devs of <a href="https://github.com/TechShreyash/SiestaXMusic/graphs/contributors">SiestaXMusic</a>.</h3>
 
