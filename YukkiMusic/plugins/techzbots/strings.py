@@ -34,7 +34,7 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="🔗 Deploy your own bot", url="https://github.com/TeamAviax/AviaxMusic"
+                text="🔗 Deploy your own bot", url="https://github.com/KashDaYash/AlexaMusicBot"
             ),                                  
         ]
     ]
@@ -61,7 +61,7 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="🔗 Deploy your own bot", url="https://github.com/TeamAviax/AviaxMusic"
+                text="🔗 Deploy your own bot", url="https://github.com/KashDaYash/AlexaMusicBot"
             ),                                  
         ]
     ]
