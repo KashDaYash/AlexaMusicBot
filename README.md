@@ -96,7 +96,7 @@ For more information on the technologies that power the AlexaMusicBot, check out
 - Click on save button there at bottom to save your logs and forward it to us on [@AlexaFoundation](https://t.me/AlexaFoundation) if you face any problem
 
 </details>
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)
+<summary>[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://alexamusicbot-kashdayash.koyeb.app/deploy?...)</summary>
 ## 🖇 VPS Deployment
 
 > Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
